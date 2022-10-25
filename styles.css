@@ -1,0 +1,16 @@
+
+label.error{
+    color: darkred;
+}
+
+input.error{
+    border: 1px solid darkred;
+}
+
+select.error{
+    border: 1px solid darkred;
+}
+
+textarea.error{
+    border: 1px solid darkred;
+}
